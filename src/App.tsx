@@ -43,6 +43,7 @@ function App() {
 
     setTodos(todos.filter((todo) => !todo.status));
   };
+  
   return (
     <div className="todo">
       <h1 className="todo_title">Todos</h1>
