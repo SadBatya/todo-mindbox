@@ -29,6 +29,7 @@
   background-color: black;
   border: 1px solid black;
   font-size: clamp(0.5rem, 2.5vw, 1.3rem);
+  color: white;
 }
 
 .todo_add_btn {
